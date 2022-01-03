@@ -1,0 +1,11 @@
+ p{
+            color:green;
+            background-color: wheat;
+            font-size: 500%;
+            height: 20%;
+        }
+
+
+
+1. css breakpoint
+2. CSS Box Model 
